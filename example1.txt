@@ -1,6 +1,7 @@
 am/ sin nm ,n mn 
 
+<<<<<<< HEAD
 This text is the change applied to this text file wihile in a separate branch 
 
-dfkvn .nmf .mnfv CONCLFICT!!!!!
-adfvfsmvefmlf d
+This text is the change applied. CONFLICT
+
