@@ -1,1 +1,3 @@
 am/ sin nm ,n mn 
+
+This text is the change applied to this text file wihile in a separate branch
