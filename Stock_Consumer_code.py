@@ -1,3 +1,4 @@
+#Code for the consumer of Stock Market Kafka steaming process
 from kafka import KafkaConsumer
 from time import sleep
 from json import dumps, loads
@@ -6,6 +7,7 @@ from s3fs import S3FileSystem
 
 consumer = KafkaConsumer(
         'demo_test',
+        #Here enter/edit the IP address of the EC2 server being used
         bootstrap_servers = ['16.16.141.101:9092'],
         value_deserializer= lambda x: loads(x.decode('utf-8')),
         api_version=(0, 10, 1))    
