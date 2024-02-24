@@ -1,4 +1,0 @@
-The purpose of this file and text is to test the change applied to this text file while in a separate branch. 
-
-This text is the change applied.
-
