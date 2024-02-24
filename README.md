@@ -1,5 +1,5 @@
 # Kafka Stock Market Streaming Project
-##Project Overview
+## Project Overview
  The purpose of this Kafka stock market streaming project is to illustrate how one could create a full
  end to end streaming solution using a simulated streaming input API, a Kafka runtime running on am AWS
  EC2 server, S3 storage buckets, AWS Glue, and AWS Athena, so that this data stream can be indefintely stored
